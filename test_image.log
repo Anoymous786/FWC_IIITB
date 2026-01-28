@@ -1,0 +1,144 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.27)  28 JAN 2026 23:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**test_image.tex
+(./test_image.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/base/a
+rticle.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/base/s
+ize10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/l3back
+end/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+)
+No file test_image.aux.
+\openout1 = `test_image.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/context/base
+/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen151
+\scratchbox=\box53
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen152
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks19
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/epstop
+df-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/latexc
+onfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<1.png, id=1, 191.71625pt x 123.46124pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 6.
+(pdftex.def)             Requested size: 345.0pt x 222.20366pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 6--7
+[][] 
+ []
+
+[1
+
+{/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/fonts/map/pdftex/
+updmap/pdftex.map} <./1.png>] (./test_image.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1269 strings out of 467533
+ 21500 string characters out of 5405421
+ 434756 words of memory out of 5000000
+ 30228 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,203b,126s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb>
+Output written on test_image.pdf (1 page, 20786 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
